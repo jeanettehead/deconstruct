@@ -4,6 +4,5 @@ Backbone.Router.extend({
   },
   showSkeleton: function (skeletonId) 
   { /* show a skeleton*/ }
-});
-
+}); 
 

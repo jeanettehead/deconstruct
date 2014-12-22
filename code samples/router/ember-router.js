@@ -9,3 +9,4 @@ App.FlameRoute = Ember.Route.extend({
     return App.data.fire;
   }
 });
+
