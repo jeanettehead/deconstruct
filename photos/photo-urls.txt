@@ -1,0 +1,44 @@
+ROUTER
+  Road: http://www.istockphoto.com/photo/road-4830897?st=17e79c0
+  backbone button: http://www.istockphoto.com/photo/easy-button-29117266?st=7f6b69d
+  ng-cookies: http://www.istockphoto.com/photo/dough-with-cookie-cutters-22588954?st=7421d0d
+  em.map: http://www.istockphoto.com/photo/pushpin-marking-location-on-map-6177999?st=23d2443
+  
+  
+Loads data
+http://www.istockphoto.com/photo/burning-fire-12479871?st=208ea64
+
+The Code
+http://www.istockphoto.com/photo/technical-blueprint-34045744?st=db76d7e
+
+Controller
+http://www.istockphoto.com/photo/microsoft-xbox-360-controller-19232662?st=d7b1fe0
+
+Backbone controller
+http://www.istockphoto.com/photo/lazy-fat-cat-sleeping-on-the-couch-26723014?st=60e8016
+
+
+ng controller
+http://www.istockphoto.com/photo/teamwork-19511903?st=9de5d33
+
+nutella
+http://www.istockphoto.com/photo/nutella-hazelnut-spread-23097365?st=b6da2c6
+
+confetti
+http://i.istockimg.com/file_thumbview_approve/32344910/2/stock-photo-32344910-gold-glitter-sprinkles-down-from-top-of-frame.jpg
+
+gong is from mulon wiki - is that kosher???
+
+
+Event handling
+http://i.istockimg.com/file_thumbview_approve/2292151/2/stock-photo-2292151-can-telephones.jpg
+
+
+BB mail
+http://www.istockphoto.com/vector/mailbox-43569246?st=f06f69e
+
+ng-factory
+http://www.istockphoto.com/vector/mass-production-41228684?st=c1470d2
+
+ember actions
+http://www.istockphoto.com/photo/clapper-10982571?st=adf0630
