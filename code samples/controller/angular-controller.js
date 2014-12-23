@@ -1,6 +1,6 @@
-App.controller('triangleController',
+myApp.controller('TriangleController',
   function ($scope) {
-    $scope.question = 'Acute or Obtuse?';
+    $scope.question = 'How many triangles?';
   }
 );
 

@@ -1,0 +1,20 @@
+<div ng-controller="Controller">
+  Date format: <input ng-model="format"> <hr/>
+  Current time is: <span my-current-time="format"></span>
+</div>
+
+
+
+
+<!-- nested components -->
+
+<my-tabs>
+  <my-pane title="Hello">
+    <h4>Acute Triangles</h4>
+    <p>Are Cute</p>
+  </my-pane>
+  <my-pane title="World">
+    <h4>Obtuse Triangles</h4>
+    <p>Aren't</p>
+  </my-pane>
+</my-tabs>
