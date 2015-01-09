@@ -2,7 +2,7 @@ myApp.controller('TriangleController',
 ['$scope',
   function ($scope) {
     $scope.triangleCount = 0;
-    $scope.addTriangles = function (numToAdd) {
+    $scope.addTriangles = function () {
       $scope.triangleCount++;
     };
   }
