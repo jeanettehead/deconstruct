@@ -1,6 +1,7 @@
-<!-- fire.hbs -->
+<!-- fire.handlebars -->
 <div>
-  <button onClick=“breatheFire”>
+  <button {{action "breatheFire" on="click"}}>
+    <!-- default action of 'click' doesn't need to be specified -->
     Breathe Fire
   </button>
 </div>
